@@ -28,6 +28,7 @@ The dashboard aims to:
 5.Support data-driven decisions for buyers/sellers
 
 # 🛠️ Tools & Technologies
+
 📊 Power BI Desktop — Dashboard creation & visualization 
 
 📂 Power Query — Data cleaning & transformation
@@ -39,6 +40,7 @@ The dashboard aims to:
 🧩 Data Modeling — Relationships & reporting structure
 
 # 📂 Dataset Description
+
 The dataset contains smartphone-related attributes such as:
 
 🏷 Brand | 📱 Model | ⭐ Rating | 🎨 Color | 💰 Sale Price / MRP | 🧾 Discount
@@ -48,6 +50,7 @@ This enables comparison of market presence, ratings, and discount strategies acr
 # 📊 Dashboard Features
 
 ***Key Performance Indicators (KPIs)***
+
 Provides a quick market snapshot:
 
 i. Total Brands: 17
@@ -59,6 +62,7 @@ iii. Total Models: 3114
 ➡ Helps understand overall dataset coverage instantly.
 
 ***Models by Brands***
+
 i. Visualization: Bar chart
 
 ii. Shows brand-wise model count
@@ -100,10 +104,15 @@ ii. Ratings range
 ➡ Enables deeper brand-level exploration and comparison.
 
 # 💡 Key Insights
+
 i. A few brands dominate the market with the highest number of models
+
 ii. Ratings help identify quality perception by brand
+
 iii. Discount comparison highlights value-for-money brands
+
 iv. Color distribution shows customer preference and product variety
+
 v. Filters make the dashboard interactive for quick exploration
 
 # 📷 Dashboard Preview
